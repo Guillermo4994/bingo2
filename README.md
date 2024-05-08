@@ -1,3 +1,3 @@
 # Colores
-[imagen del proyecto](img/descktop/reto2)
+[imagen del proyecto](reto2/colores.jpg)
  
